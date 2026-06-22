@@ -122,7 +122,7 @@ README.md
 
 ### Budget Tracking Page
 
-![Budget Page](screenshot/budgettrackpage.png)
+![Budget Page](screenshot/budgettrack_page.png)
 
 ## 8. Installation Guide
 
