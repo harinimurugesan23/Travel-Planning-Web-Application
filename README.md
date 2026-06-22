@@ -1,70 +1,195 @@
-# Getting Started with Create React App
+# Travel Planning Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. Project Overview
 
-## Available Scripts
+Travel Planning Web Application is a full-stack MERN application designed to help users plan and organize their trips efficiently. The platform allows users to explore destinations, create customized travel schedules, manage budgets, and store trip plans in a user-friendly interface.
 
-In the project directory, you can run:
+## 2. Live Demo
 
-### `npm start`
+https://travel-frontend-0hd2.onrender.com
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 3. Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. User Registration and Login Authentication.
 
-### `npm test`
+2. Explore multiple travel destinations across different states.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Search and discover tourist attractions.
 
-### `npm run build`
+4. Create personalized travel schedules.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Select trip duration, budget, and destination preferences.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+6. Store and manage travel plans.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+7. View saved schedules in the Task section.
 
-### `npm run eject`
+8. Hotel and Flight booking redirection support.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+9. Payment confirmation through QR code and screenshot upload.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+10. Responsive user interface for desktop and mobile devices.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 4. Technology Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Frontend
 
-## Learn More
+1. React.js
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. HTML5
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. CSS3
 
-### Code Splitting
+4. JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+5. Axios
 
-### Analyzing the Bundle Size
+6. React Router
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Backend
 
-### Making a Progressive Web App
+1. Node.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+2. Express.js
 
-### Advanced Configuration
+3. MongoDB Atlas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+4. Mongoose
+
+5. JWT Authentication
+
+6. Bcrypt.js
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+1. Render
 
-### `npm run build` fails to minify
+2. GitHub
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 5. Application Workflow
+
+1. Users create an account or log in to the application.
+
+2. Users explore available destinations and travel packages.
+
+3. Users enter travel details including budget, number of travelers, and travel dates.
+
+4. The system generates a travel schedule.
+
+5. Users can customize their itinerary based on preferences.
+
+6. Users proceed with payment verification.
+
+7. Final travel plans are stored and can be viewed later in the Task section.
+
+## 6. Project Structure
+
+Travel-Planner
+
+frontend/
+
+backend/
+
+screenshots/
+
+README.md
+
+## 7. Screenshots
+
+### Landing Page
+
+![Landing Page](screenshots/landing-page.png)
+
+### Login Page
+
+![Login Page](screenshots/login-page.png)
+
+### Home Page
+
+![Home Page](screenshots/home-page.png)
+
+### Schedule Planner
+
+![Schedule Planner](screenshots/planner-page.png)
+
+### Payment Page
+
+![Payment Page](screenshots/payment-page.png)
+
+### Task Page
+
+![Task Page](screenshots/task-page.png)
+
+## 8. Installation Guide
+
+### Step 1
+
+Clone the repository.
+
+git clone <repository-url>
+
+### Step 2
+
+Navigate to the project directory.
+
+cd Travel-Planner
+
+### Step 3
+
+Install frontend dependencies.
+
+npm install
+
+### Step 4
+
+Install backend dependencies.
+
+npm install
+
+### Step 5
+
+Configure environment variables.
+
+Create a .env file and add the required MongoDB connection string and application settings.
+
+### Step 6
+
+Start the backend server.
+
+node server.js
+
+### Step 7
+
+Start the frontend application.
+
+npm start
+
+## 9. Future Enhancements
+
+1. AI-powered itinerary recommendations.
+
+2. Real-time weather integration.
+
+3. Online hotel booking integration.
+
+4. Flight booking API integration.
+
+5. Travel expense tracking.
+
+6. Interactive maps and route planning.
+
+7. Travel recommendation engine.
+
+## 10. Author
+
+Harini M
+
+Bachelor of Engineering in Computer Science and Engineering
+
+Ramco Institute of Technology
+
+Email: [your-email@example.com](mailto:your-email@example.com)
+
+LinkedIn: your-linkedin-profile
+
+GitHub: your-github-profile
