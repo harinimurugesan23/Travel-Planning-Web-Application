@@ -9,7 +9,7 @@ const Admin = () => {
     // Fetch normal trip plans
     const fetchPlans = async () => {
       try {
-        const res = await fetch("http://localhost:5000/api/plans");
+        const res = await fetch("https://travel-backend-ceam.onrender.com/api/plans");
         const data = await res.json();
         setPlans(data);
       } catch (error) {

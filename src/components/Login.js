@@ -21,7 +21,7 @@ const handleLogin = async (e) => {
 
   try {
     // Regular user login check with backend
-    const res = await axios.post("http://localhost:5000/api/login", {
+    const res = await axios.post("https://travel-backend-ceam.onrender.com/api/login", {
       email,
       password,
     });

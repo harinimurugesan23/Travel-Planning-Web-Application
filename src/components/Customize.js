@@ -21,7 +21,7 @@ const Customize = () => {
 
   const handleSave = async () => {
     try {
-      const response = await axios.post("http://localhost:5000/api/customize", {
+      const response = await axios.post("https://travel-backend-ceam.onrender.com/api/customize", {
         email,
         selectedPlace,
         schedule: scheduleList,

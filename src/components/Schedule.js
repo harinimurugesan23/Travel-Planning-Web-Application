@@ -62,7 +62,7 @@ const Schedule = () => {
     };
 
     try {
-      const res = await fetch("http://localhost:5000/api/plans", {
+      const res = await fetch("https://travel-backend-ceam.onrender.com/api/plans", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(planData),

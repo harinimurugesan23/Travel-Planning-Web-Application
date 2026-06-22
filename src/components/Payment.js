@@ -25,7 +25,7 @@ const Payment = () => {
     formData.append('place', place);
 
     try {
-      await axios.post('http://localhost:5000/api/payment', formData);
+      await axios.post('https://travel-backend-ceam.onrender.com/api/payment', formData);
       setIsSubmitted(true);
     } catch (error) {
       console.error("Error uploading payment:", error);
