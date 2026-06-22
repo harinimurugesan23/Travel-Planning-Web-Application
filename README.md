@@ -187,13 +187,3 @@ npm start
 ## 10. Author
 
 Harini M
-
-Bachelor of Engineering in Computer Science and Engineering
-
-Ramco Institute of Technology
-
-Email: [your-email@example.com](mailto:your-email@example.com)
-
-LinkedIn: your-linkedin-profile
-
-GitHub: your-github-profile
