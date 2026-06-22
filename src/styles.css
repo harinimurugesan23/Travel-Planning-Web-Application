@@ -1,6 +1,6 @@
 /* Hero Section Container */
 .hero-container {
-  background: url("E:/travel/src/assets/next.jpg") no-repeat center center/cover;
+  background: url("/src/assets/next.jpg") no-repeat center center/cover;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -239,7 +239,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url("E:/travel/src/assets/wow.jpg") no-repeat center center/cover;
+  background: url("/src/assets/wow.jpg") no-repeat center center/cover;
 }
 
 .login-box {
@@ -319,7 +319,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url("E:/travel/src/assets/bg4.jpg") no-repeat center center/cover; /* Background image */
+  background: url("/src/assets/bg4.jpg") no-repeat center center/cover; /* Background image */
 }
 
 
@@ -675,7 +675,7 @@
   line-height: 1.4;
 }
 .home-container {
-  background: url("E:/travel/src/assets/bgnew.jpg") no-repeat center center/cover;
+  background: url("/src/assets/bgnew.jpg") no-repeat center center/cover;
   min-height: 100vh; /* Ensures it covers the full viewport */
   color: white; /* Adjust text color for better visibility */
   padding: 30px;
