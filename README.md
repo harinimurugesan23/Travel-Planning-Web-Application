@@ -98,27 +98,31 @@ README.md
 
 ### Landing Page
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](screenshots/intro_page.png)
 
 ### Login Page
 
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/login_page.png)
+
+## Signin Page
+
+![Signin Page](screenshots/signin_page.png)
 
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/home_page.png)
 
-### Schedule Planner
+### Location Page
 
-![Schedule Planner](screenshots/planner-page.png)
+![Location](screenshots/sample_location_page.png)
 
-### Payment Page
+### Customize Page
 
-![Payment Page](screenshots/payment-page.png)
+![Customize Page](screenshots/customize_page.png)
 
-### Task Page
+### Budget Tracking Page
 
-![Task Page](screenshots/task-page.png)
+![Budget Page](screenshots/budgettrackpage.png)
 
 ## 8. Installation Guide
 
