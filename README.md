@@ -98,31 +98,31 @@ README.md
 
 ### Landing Page
 
-![Landing Page](screenshots/intro_page.png)
+![Landing Page](screenshot/intro_page.png)
 
 ### Login Page
 
-![Login Page](screenshots/login_page.png)
+![Login Page](screenshot/login_page.png)
 
 ## Signin Page
 
-![Signin Page](screenshots/signin_page.png)
+![Signin Page](screenshot/signin_page.png)
 
 ### Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshot/home_page.png)
 
 ### Location Page
 
-![Location](screenshots/sample_location_page.png)
+![Location](screenshot/sample_location_page.png)
 
 ### Customize Page
 
-![Customize Page](screenshots/customize_page.png)
+![Customize Page](screenshot/customize_page.png)
 
 ### Budget Tracking Page
 
-![Budget Page](screenshots/budgettrackpage.png)
+![Budget Page](screenshot/budgettrackpage.png)
 
 ## 8. Installation Guide
 
